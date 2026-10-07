@@ -343,8 +343,6 @@ After installing the dependencies, run:
 streamlit run app.py
 
 The application will open in your browser.
-Usually, it will be available at:
-http://localhost:8501
 
 
 ## 🖥️ Streamlit Application
@@ -438,8 +436,15 @@ Ritik Raj
 Computer Science / Artificial Intelligence & Machine Learning
 Brain Tumor MRI Image Classification Project
 
-## 
-📄 License
+## ⭐ Project Links
+
+🔗 GitHub Repository:
+https://github.com/ritikraj77320/Brain_Tumor_MRI_Project
+
+🌐 Live Application:
+https://brain-mri-classifier-ai.streamlit.app
+
+## 📄 License
 This project is intended for educational and research purposes.
 You may modify and use the project for learning and academic purposes with appropriate attribution.
 
